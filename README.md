@@ -1,5 +1,5 @@
 # OpenJDKBuild
-OpenJDK Unofficial Builds for Windows,Linux and macos, includes full OpenJDK Environment and JavaSE Compact 1,2,3. Details about JavaSE Compact,please refer to [https://docs.oracle.com/javase/8/docs/technotes/guides/compactprofiles/compactprofiles.html](https://docs.oracle.com/javase/8/docs/technotes/guides/compactprofiles/compactprofiles.html)
+OpenJDK Unofficial Builds for Windows,Linux and macOS, includes full OpenJDK Environment and JavaSE Compact 1,2,3. Details about JavaSE Compact,please refer to [https://docs.oracle.com/javase/8/docs/technotes/guides/compactprofiles/compactprofiles.html](https://docs.oracle.com/javase/8/docs/technotes/guides/compactprofiles/compactprofiles.html)
 
 ##Download for Windows##
 
