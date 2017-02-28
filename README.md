@@ -30,7 +30,7 @@ OpenJDK Unofficial Builds for Windows,Linux and macOS, include full OpenJDK Envi
 
 - [openjre8-compact2.macos.x86_64.tar.gz (14.8MB)](https://github.com/vlinx-io/OpenJDKBuild/releases/download/mac/openjre8-compact2.macos.x86_64.tar.gz "openjre8-compact2.macos.x86_64.zip")
 
-- [openjre8-compact3.macos.x86_64.tar.gz (16.9MB)](https://github.com/vlinx-io/OpenJDKBuild/releases/download/mac/openjre8-compact3.linux.x86_64.tar.gz "openjre8-compact3.macos.x86_64.zip")
+- [openjre8-compact3.macos.x86_64.tar.gz (16.9MB)](https://github.com/vlinx-io/OpenJDKBuild/releases/download/mac/openjre8-compact3.mac.x86_64.tar.gz "openjre8-compact3.macos.x86_64.zip")
 
 
 
